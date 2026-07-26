@@ -5,6 +5,7 @@ Java examples for interacting with the Ethereum blockchain using the [Web3j](htt
 [![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk&logoColor=white)](https://www.java.com)
 [![Web3j](https://img.shields.io/badge/Web3j-4.9.0-blue)](https://web3j.io)
 [![Ethereum](https://img.shields.io/badge/Ethereum-Ganache--compatible-purple?logo=ethereum&logoColor=white)](https://ethereum.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Overview
 
